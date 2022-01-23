@@ -10,5 +10,7 @@ border collapses down too? I've attached images for reference.
 ## Here are the Hours of Operation for the Support Department
 Monday-Friday 7am-6pm MST | Saturday 7am-3pm MST | Sunday: CLOSED
 
+
+
 ![image](/public/one-box.png)
-![image](/public/two-box.png)
+![image](/public/two-boxes.png)
